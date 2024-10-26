@@ -5,9 +5,5 @@ Development of a trading bot in Java for autonomous cryptocurrency exchange. The
 
 ## Authors
 Fran Grenko</br>
-Deni Klen</br>
-Ani Perušić</br>
-Mateo Srića</br>
-Karlo Veršić</br>
 
 Faculty of engineering in Rijeka, 2021.
